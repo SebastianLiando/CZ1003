@@ -1,0 +1,9 @@
+Please indicate an option
+1. Sort by distance
+2. Search by food
+3. Search by price
+4. Search halal food
+5. Search vegetarian food
+6. Sort by rank
+7. Update database
+8. Quit

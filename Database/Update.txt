@@ -1,0 +1,6 @@
+Please choose which data you would like to update:
+1. Opening time
+2. Closing time
+3. Location
+4. Add food
+5. Back to main
